@@ -1,0 +1,9 @@
+{
+	"name": "@cerebrusinc/bunhelmet",
+	"version": "0.1.0",
+	"description": "A fork of helmet",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"repository": "https://github.com/cerebrusinc/bunhelmet.git",
+	"license": "MIT"
+}
